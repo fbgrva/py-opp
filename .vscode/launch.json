@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Dərs 2 — işə sal",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/lesson2/lesson2_hw.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Dərs 3 — işə sal",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/lesson3/lesson3_hw.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
